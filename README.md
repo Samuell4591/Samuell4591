@@ -23,26 +23,35 @@ Estudante de Ciências da Computação na **UniBTA** (3º semestre), com foco em
 - ☁️ AWS — EC2, S3, IAM, VPC, RDS
 
 ---
-
 ## 🚀 Projetos em destaque
 
-> Em construção — acompanhe os repositórios fixados abaixo
+### 📦 [gestao-pedidos](https://github.com/Samuell4591/gestao-pedidos)
+> Sistema backend de gestão de pedidos com arquitetura **Clean Architecture** e **DDD (Domain-Driven Design)**.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-blueviolet?style=flat)
+![DDD](https://img.shields.io/badge/DDD-Domain_Driven_Design-blue?style=flat)
 
 ---
 
-## 📈 GitHub Stats
+### 💰 [controle-financeiro-backend-java](https://github.com/Samuell4591/controle-financeiro-backend-java-)
+> API REST para controle financeiro pessoal — gerenciamento de receitas, despesas e relatórios.
 
-<div align="center">
-  <img height="160" src="https://github.com/Samuell4591/gestao-pedidos username=Samuell4591&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github.com/Samuell4591/controle-financeiro-backend-java-&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-green?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+
+---
+
 
 ---
 
 ## 📬 Onde me encontrar
 
-[![LinkedIn]https://www.linkedin.com/in/samuel-cordeiro-da-silva-441047359/
-[![Gmail] Samuelcordeirodasilva62@gmail.com
+**LinkedIn** https://www.linkedin.com/in/samuel-cordeiro-da-silva-441047359/
+**Gmail**  Samuelcordeirodasilva62@gmail.com
 
 ---
 
