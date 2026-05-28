@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, sou Samuel 👨‍💻
 
-<!--
-**Samuell4591/Samuell4591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciências da Computação | Java & AWS
 
-Here are some ideas to get you started:
+# Sobre mim
+- Estudo na UNIBTA — 3º semestre
+- Foco em desenvolvimento backend com Java
+- Aprendendo AWS e cloud computing
+- Localização: São Paulo, SP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack atual
+Java · Spring Boot · MySQL · Git · AWS (em progresso)
+
+## Onde me encontrar
+LinkedIn:https://www.linkedin.com/in/samuel-cordeiro-da-silva-441047359/ |  Email:Samuelcordeirodasilva62@gmail.com
