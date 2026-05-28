@@ -1,8 +1,8 @@
-# Olá, sou Samuel 👋
+# Olá, sou Samuel 
 
 ### Backend Developer | Java · Spring Boot · AWS em progresso
 
-Estudante de Ciências da Computação na **UniBTA** (3º semestre), com foco em desenvolvimento backend com Java e construindo expertise em cloud com AWS. Baseado em **São Paulo, SP** — buscando minha primeira oportunidade no mercado de tecnologia.
+Estudante de Ciências da Computação na **UniBTA** (3º semestre), com foco em desenvolvimento backend com Java e construindo expertise em cloud com AWS. Baseado em **São Paulo, SP**.
 
 ---
 
@@ -41,8 +41,8 @@ Estudante de Ciências da Computação na **UniBTA** (3º semestre), com foco em
 
 ## 📬 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-PERFIL-AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI)
+[![LinkedIn](https://www.linkedin.com/in/samuel-cordeiro-da-silva-441047359/)
+[![Gmail](Samuelcordeirodasilva62@gmail.com)
 
 ---
 
