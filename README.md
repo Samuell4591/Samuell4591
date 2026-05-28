@@ -33,16 +33,16 @@ Estudante de Ciências da Computação na **UniBTA** (3º semestre), com foco em
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Samuell4591&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuell4591&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github.com/Samuell4591/gestao-pedidos username=Samuell4591&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github.com/Samuell4591/controle-financeiro-backend-java-&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
 ## 📬 Onde me encontrar
 
-[![LinkedIn](https://www.linkedin.com/in/samuel-cordeiro-da-silva-441047359/)
-[![Gmail](Samuelcordeirodasilva62@gmail.com)
+[![LinkedIn]https://www.linkedin.com/in/samuel-cordeiro-da-silva-441047359/
+[![Gmail] Samuelcordeirodasilva62@gmail.com
 
 ---
 
